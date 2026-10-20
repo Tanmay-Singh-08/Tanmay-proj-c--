@@ -1,2 +1,0 @@
-Python is easy
-File handling is important
