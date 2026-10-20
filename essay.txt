@@ -1,1 +1,0 @@
-This is a sample essay. It has multiple sentences. Python is great.
