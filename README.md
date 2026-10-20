@@ -1,4 +1,4 @@
-Python Programming Practice
+#Python Programming Practice
 
 A collection of Python programs and coding exercises created while learning programming fundamentals and developing problem-solving skills.
 
@@ -6,7 +6,7 @@ About This Branch
 
 The python-code branch contains Python practice code. It serves as a workspace for learning, experimenting with solutions, and improving code step by step.
 
-Topics
+##Topics
 
 As the collection grows, programs may cover topics such as:
 
@@ -26,7 +26,7 @@ Problem-solving exercises
 
 
 
-Learning Goals
+##Learning Goals
 
 Strengthen Python fundamentals.
 
@@ -39,8 +39,8 @@ Learn to debug errors and test different inputs.
 Track progress using Git and GitHub.
 
 
-Author
+###Author
 
-Tanmay Singh
+###Tanmay Singh
 
-GitHub: @Tanmay-Singh-08
+###GitHub: @Tanmay-Singh-08
